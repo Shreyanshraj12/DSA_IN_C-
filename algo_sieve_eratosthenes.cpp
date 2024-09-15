@@ -30,7 +30,7 @@ using namespace std;
 // cout<<count<<endl;
 // }
 
-// ALGORITHM OF SIEVE OF ERATOSTHENES. TIME COMPLEXITY O(N LOGLOGN)
+// ALGORITHM OF SIEVE OF ERATOSTHENES. TIME COMPLEXITY O(N LOG(LOGN))
 
 // int countPrimes(int n){
 //     if (n == 0){
